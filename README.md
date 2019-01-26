@@ -4,7 +4,7 @@
 
 1) Finding shortest path in Undirected graphs using Dijkstra Algorithm.
 
-Runtime Analysis:-
+	Runtime Analysis:-
 
 - Priority Queue is used. Java Priority Queue uses heap structure.
 - Each vertex insertion and the corresponding heapify operation takes
@@ -15,7 +15,7 @@ Runtime Analysis:-
 
 2) Finding the Minimum spanning tree using Prims Algorithm.
 
-Runtime Analysis:-
+	Runtime Analysis:-
 
 - Priority Queue is used. Java Priority Queue uses heap structure.
 - Each vertex insertion and the corresponding heapify operation takes
